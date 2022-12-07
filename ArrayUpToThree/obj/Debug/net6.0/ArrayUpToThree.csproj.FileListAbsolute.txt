@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\bin\Debug\net6.0\ArrayUpToThree.exe
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\bin\Debug\net6.0\ArrayUpToThree.deps.json
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\bin\Debug\net6.0\ArrayUpToThree.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\bin\Debug\net6.0\ArrayUpToThree.dll
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\bin\Debug\net6.0\ArrayUpToThree.pdb
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.dll
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\refint\ArrayUpToThree.dll
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.pdb
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ArrayUpToThree.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Учеба\FinalVerificationWork\ArrayUpToThree\obj\Debug\net6.0\ref\ArrayUpToThree.dll

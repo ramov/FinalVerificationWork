@@ -19,7 +19,7 @@ string[] ArrayUpToThree(string[] array1)
         if (array1[i].Length <= 3)
         {
             array2[j] = array1[i];
-            l++;
+            j++;
         }
     return array2;
 }
